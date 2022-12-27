@@ -1,4 +1,4 @@
-# CLD-projects-проектные решения
+# CLD-projects (проектные решения)
 - HTML 5
 - CSS 3
 - JS
